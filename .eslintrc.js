@@ -2,9 +2,7 @@ module.exports = {
     "env": {
         "browser": true,
         "es6": true,
-        "mocha": true
-    },
-    "plugins": ["mocha"],
+        "mocha ["mocha"],
     "extends": "eslint:recommended",
     "parserOptions": {
         "sourceType": "module"
